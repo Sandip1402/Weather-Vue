@@ -1,11 +1,4 @@
 
-// const options = {
-//     method: 'GET',
-//     headers: {
-//         'x-rapidapi-key': '4e0ace4af852e0bde9537ffe85132aa3',
-//         'x-rapidapi-host': 'weather-api138.p.rapidapi.com'
-//     }
-// };
 
 const getWeather = () => {
     // cityName.innerHTML = city_name;
