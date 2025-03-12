@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+#home{
+    font-size: 20px;
+}
+#nav{
+    color: aliceblue;
+}
+.container-fluid{
+    background-image: url("navbar.jpg");
+}
+.container{
+    background-color: aliceblue;
+    border-radius: 15px;
+}

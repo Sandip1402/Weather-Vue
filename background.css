@@ -1,0 +1,38 @@
+.container-fluid{
+    background-image: url("navbar.jpg");
+}
+
+.card-body1{
+    height: 280px;
+    background-image: url("Temp.jpg");
+    background-size: auto;
+    
+}
+.card-body2{
+    height: 280px;
+    background-image: url("Humi.png");
+    background-size: cover;
+}
+.card-body3{
+    height: 280px;
+    background-image: url("Wind.png");
+    background-size: cover;
+}
+.navbar-brand{
+    color:aliceblue;
+}
+#submit{
+    color:aliceblue;
+}
+.hov{
+    background-color: lightgrey;
+    box-shadow: 4px 3px 8px goldenrod;
+}
+.hov:hover{
+    box-shadow: 6px 8px 12px darkslategray;
+} 
+
+body{
+    background-image: url("sky2.jpg");
+    background-size: cover;
+}
